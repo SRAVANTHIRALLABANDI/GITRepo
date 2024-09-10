@@ -1,1 +1,2 @@
 Get the user data
+Added new user data to the existing file to observe the changes
