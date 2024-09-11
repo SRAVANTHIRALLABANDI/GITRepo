@@ -1,2 +1,7 @@
 Get the user data
+<<<<<<< HEAD
 Added new user data to the existing file to observe the changesgit 
+=======
+Added new user data to the existing file to observe the changes
+Added new line to observer the changes using pull request
+>>>>>>> 6808b89e1fe32a0b149f8e5cb4d784ad59209381
