@@ -4,4 +4,8 @@ Added new user data to the existing file to observe the changesgit
 =======
 Added new user data to the existing file to observe the changes
 Added new line to observer the changes using pull request
+<<<<<<< HEAD
 >>>>>>> 6808b89e1fe32a0b149f8e5cb4d784ad59209381
+=======
+Git pull 
+>>>>>>> 3ffd437bfa0cecb639f91eba84690ed221968262
