@@ -9,3 +9,4 @@ Added new line to observer the changes using pull request
 =======
 Git pull 
 >>>>>>> 3ffd437bfa0cecb639f91eba84690ed221968262
+put changes in the working directory and unstage them
